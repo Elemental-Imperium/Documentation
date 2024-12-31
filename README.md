@@ -2,6 +2,17 @@
 
 This comprehensive documentation suite will provide clarity, consistency, and scalability for both general and specific Web3 projects under the Elemental Imperium umbrella.
 
+## Introduction
+
+Welcome to the Elemental Imperium documentation. This guide is designed to help you navigate through the various aspects of our Web3 projects, providing detailed information and instructions.
+
+## Getting Started
+
+To get started with our documentation, follow these steps:
+1. Clone the repository.
+2. Navigate to the documentation directory.
+3. Open the relevant markdown files to find the information you need.
+
 ## Table of Contents
 
 - [Collaboration and Maintenance](Collaboration-and-Maintenance/)
